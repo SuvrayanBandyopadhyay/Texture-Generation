@@ -1,5 +1,6 @@
 # Texture-Generation
-This project uses cellular automata to create organic grass like textures
+
+Organic grass-like texture generator using cellular automata.
 
 Here is a sample output
 
